@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](license.md)
 
-![logo](logo.png)
+![logo](Logo.png)
 
 ---
 
